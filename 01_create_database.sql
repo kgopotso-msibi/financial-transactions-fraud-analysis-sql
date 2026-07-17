@@ -1,0 +1,2 @@
+CREATE DATABASE financial_transactions_db;
+USE financial_transactions_db;
